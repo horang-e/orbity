@@ -10,6 +10,7 @@ interface IProject {
   NUM_BE: number;
   NUM_DESIGNER: number;
   NUM_PM: number;
+  PROJECT_TAGS: string[];
 }
 
 interface IPersonalLink {
