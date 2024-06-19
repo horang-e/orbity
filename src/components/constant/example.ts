@@ -19,12 +19,12 @@ const ProjectExample: IProject[] = [
 
 const UserExample: IUser = {
   USER_ID: 1,
-  NICK_NAME: '안녕토마스',
+  NICK_NAME: '안녕토마스안녕토마스222223333',
   PROFILE_PICTURE: 'https://i.pinimg.com/236x/2f/55/97/2f559707c3b04a1964b37856f00ad608.jpg',
   EMAIL: 'Email',
   JOB_TYPE: 'FE',
   INTEREST_FIELDS: ['Interest Fields'],
-  DESCRIPTION: 'Description',
+  DESCRIPTION: 'DescriptionDescriptionDescriptionDescriptionDescription',
   PERSONAL_LINKS: [
     {
       LINK_NAME: 'Link Name',
